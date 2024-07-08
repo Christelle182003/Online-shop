@@ -264,7 +264,7 @@ align-items: center;
 }
 
 .gorgeous{
-    width: 404px;
+    width: 380px;
 height: 582px;
 gap: 0px;
 opacity: 0px;
@@ -327,11 +327,11 @@ color: #484848;
 }
 
 .beautiful-image{
-    width: 372px;
+    width: 330px;
 height: 486px;
 top: 1358px;
 left: 1314px;
-gap: 0px;
+gap: 2px;
 opacity: 0px;
 
     object-fit: cover;
@@ -357,33 +357,30 @@ border-radius: 100%;
 
 .cute{
     width: 372px;
-opacity: 0px;
+    opacity: 0px;
 }
 
 .section3{
     width: 100%;
-
-
-gap: 0px;
-border-radius: 10px 0px 0px 0px;
-opacity: 0px;
-
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
-padding: 15px ;
-text-align: center;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px ;
+    text-align: center;
 }
 
 .new-arrivage .p1 {
-opacity: 0px;
-font-family: Volkhov;
-font-size: 46px;
-font-weight: 400;
-line-height: 59.34px;
-text-align: center;
-color: #484848;
+    opacity: 0px;
+    font-family: Volkhov;
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 59.34px;
+    text-align: center;
+    color: #484848;
 }
 
 .new-arrivage .p2{
