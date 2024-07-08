@@ -284,24 +284,24 @@ position: relative;
 
 .offert-sale {
     position: absolute;
-    
     left: 15px;
     bottom: 15px;
     text-align: center;
     width: 217px;
-height: 130px;
-gap: 0px;
-opacity: 0px;
-border: 1px solid #484848;
-background: #FFFFFF;
+    height: 100px;
+    line-height: 20px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid #484848;
+    background: #FFFFFF;
 }
 
 .offert-sale .p-2 {
-height: 34px;
+height: 30px;
 gap: 0px;
 opacity: 0px;
 font-family: Poppins;
-font-size: 28px;
+font-size: 25px;
 font-weight: 400;
 color: #484848;
 
